@@ -39,3 +39,16 @@ Speedrun.com API
 https://github.com/speedruncomorg/api
 
 # Conclusion
+
+Presentation:
+https://docs.google.com/presentation/d/1JqEIc0U6fIjHcMOEF9anxit9FXXcnhkKB5fgwfo5okk/edit?usp=sharing
+
+Dashboard:
+https://public.tableau.com/app/profile/douglas.bruce/viz/AwesomeGamesDoneQuickFundraiserAnalysis/Dashboard1
+
+Main Points:
+Saturday evening was most successful, followed by weekday evenings.
+More than half of donations were made on bid objectives planned for the even.
+Games with high review scores and sales were most successful.
+Speedrun performers have hundreds of hours of practice and some have thousands of followers on twitch.
+
